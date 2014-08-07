@@ -1,1 +1,2 @@
-Personal repository.
+This repository works as a 'ping'
+=================================
