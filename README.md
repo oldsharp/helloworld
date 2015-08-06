@@ -1,2 +1,2 @@
-This repository works as a 'ping'
+Just a Sandbox
 =================================
